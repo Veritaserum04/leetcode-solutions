@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |

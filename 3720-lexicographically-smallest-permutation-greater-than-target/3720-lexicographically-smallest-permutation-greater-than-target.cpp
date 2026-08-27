@@ -29,8 +29,6 @@ public:
                 return "";
             }
         }
-
-        // t itself was possible, so find next permutation
         for(int i=t.size()-1;i>=0;i--) {
             c[t[i]-'a']++;
             for(int j=t[i]-'a'+1;j<26;j++) if(c[j]) {

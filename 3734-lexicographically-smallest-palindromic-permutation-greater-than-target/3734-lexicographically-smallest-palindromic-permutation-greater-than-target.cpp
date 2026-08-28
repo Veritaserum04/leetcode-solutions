@@ -18,8 +18,6 @@ public:
         int h = n / 2;
         string left;
         int pos = 0;
-
-        // Match target's left half
         while (pos < h && cnt[target[pos] - 'a']) {
             left += target[pos];
             cnt[target[pos] - 'a']--;
@@ -37,17 +35,12 @@ public:
 
             return ans;
         };
-
-        // First try the exact matching left half
         if (pos == h) {
             string ans = build(left);
 
             if (ans > target)
                 return ans;
         }
-
-        // Try making the current position larger.
-        // This also handles pos == 0.
         while (true) {
             int x = target[pos] - 'a';
 
@@ -56,8 +49,6 @@ public:
 
                 string L = left + char('a' + c);
                 cnt[c]--;
-
-                // Smallest possible remaining half
                 for (int k = 0; k < 26; k++) {
                     while (cnt[k]) {
                         L += char('a' + k);
@@ -67,11 +58,7 @@ public:
 
                 return build(L);
             }
-
-            // Cannot make this position larger.
             if (pos == 0) break;
-
-            // Backtrack
             pos--;
             cnt[target[pos] - 'a']++;
             left.pop_back();

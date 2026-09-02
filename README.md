@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0796-rotate-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |

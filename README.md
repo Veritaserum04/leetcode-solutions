@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0867-transpose-matrix) |

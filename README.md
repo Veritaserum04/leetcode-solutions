@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |

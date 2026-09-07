@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation

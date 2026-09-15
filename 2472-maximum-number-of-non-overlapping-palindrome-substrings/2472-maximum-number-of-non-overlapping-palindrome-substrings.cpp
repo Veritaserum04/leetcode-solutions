@@ -14,7 +14,7 @@ public:
         for (int i = n - 1; i >= 0; i--) {
             dp[i] = dp[i + 1]; 
             if (i + k <= n && isPalindrome(s, i, i + k - 1)) {
-                dp[i] = max(dp[i], 1 + dp[i + k]);
+                dp[i] = max(dp[i], 1 + dp[k + i]);
             }
             if (i + k + 1 <= n && isPalindrome(s, i, i + k)) {
                 dp[i] = max(dp[i], 1 + dp[i + k + 1]);

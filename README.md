@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1927-sum-game](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1872-stone-game-viii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Veritaserum04/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Veritaserum04/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Veritaserum04/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Veritaserum04/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |

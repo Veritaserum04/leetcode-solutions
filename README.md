@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0100-same-tree) |
+| [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Veritaserum04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
 | ------- |

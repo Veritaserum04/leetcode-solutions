@@ -2,13 +2,10 @@ class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         unordered_map<string, string> mp;
-
-        // Store key -> value
         for (auto &pair : knowledge)
             mp[pair[0]] = pair[1];
 
         string ans;
-
         for (int i = 0; i < s.size(); i++) {
             if (s[i] == '(') {
                 string key;
@@ -27,7 +24,6 @@ public:
                 ans += s[i];
             }
         }
-
         return ans;
     }
 };

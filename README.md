@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -231,11 +232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |

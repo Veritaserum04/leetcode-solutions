@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Veritaserum04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |

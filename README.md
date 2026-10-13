@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree

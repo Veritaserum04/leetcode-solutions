@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/Veritaserum04/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Veritaserum04/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/Veritaserum04/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Veritaserum04/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |

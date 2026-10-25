@@ -1,6 +1,6 @@
 class Solution {
     int m, n;
-    bool closed(vector<vector<int>>& grid, int i, int j) {
+    bool closed(vector<vector<int>>& grid, int i, int j) { 
         if (i < 0 || i >= m || j < 0 || j >= n) return false;
         if (grid[i][j]) return true;
         grid[i][j] = 1; 

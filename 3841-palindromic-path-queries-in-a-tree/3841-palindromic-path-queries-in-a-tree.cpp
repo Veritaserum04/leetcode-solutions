@@ -1,6 +1,7 @@
-struct Tree {
+struct Tree {  
     vector<int> parent, tin, tout, order;  
     vector<vector<int>> first;  
+
     Tree(int n, vector<vector<int>>& edges) : parent(n), tin(n), tout(n) {
         vector<int> head(n + 1), adj(2 * n);  
         for (auto& e : edges) head[e[0] + 1]++, head[e[1] + 1]++;

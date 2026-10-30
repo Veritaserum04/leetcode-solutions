@@ -4,8 +4,7 @@ public:
         vector<vector<pair<int, int>>> graph(n);
         for (auto& e : edges)
             graph[e[0]].emplace_back(e[1], e[2]);
-
-        vector<int> best(n, k + 1);  // 
+        vector<int> best(n, k + 1);
         using State = tuple<long long, int, int>;
         priority_queue<State, vector<State>, greater<>> heap;  
         heap.emplace(0, 1, 0);
